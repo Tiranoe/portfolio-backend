@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Tamagotchi",
+      "live": "Not available",
+      "git": "https://tiranoe.github.io/TAMA/",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "Instagram Clone",
+      "live": "https://app.netlify.app/whatever",
+      "git": "http://www.github.com/username/reponame",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
