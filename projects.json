@@ -3,12 +3,12 @@
       "name": "Tamagotchi",
       "live": "Not available",
       "git": "https://tiranoe.github.io/TAMA/",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "image": "https://user-images.githubusercontent.com/105525680/184471138-d6167391-c936-448a-b91e-bde00120e851.png"
     },
     {
       "name": "Instagram Clone",
       "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "git": "https://github.com/Tiranoe/Instagram-Cloning",
+      "image": "https://github.com/siemenjm/Instagram-Clone-Project2/raw/jared/assets/user_show_page.png"
     }
   ]
